@@ -5,6 +5,9 @@ This project contains a webpage design which was made using HTML, CSS and the Bo
 <img src="/media/yonezu1.png" alt="Yonezu Kenshi" width="450">
 </div>
 
+## Link to visualize the webpage
+If you click here, you can access the webpage built: [Yonezu Kenshi Webpage by fai-aher](https://fai-aher.github.io/YonezuKenshi_Bio/yonezuKenshi.html#biografia)
+
 ## Project folders
 * mockups: Contains images that represent mock-ups made to set the design ideas of the webpage.
 * media: Contains images that are used inside the webpage.
