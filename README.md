@@ -16,19 +16,19 @@ the file yonezuKenshi.html contains all the content related to the webpage. It c
 </div>
 
 <div align="center">
-    <img src="/mockups/general_mockup_part1.png" alt="Mock-up which shows the first part of the planned webpage." width="800">
+    <img src="/mockups/mockup_part1.png" alt="Mock-up which shows the first part of the planned webpage." width="800">
     <br>
     <p><em>Mock-up 2. Mock-up which shows the first part of the planned webpage..</em></p>
 </div>
 
 <div align="center">
-    <img src="/mockups/general_mockup_part2.png" alt="Mock-up which shows the second part of the planned webpage." width="800">
+    <img src="/mockups/mockup_part2.png" alt="Mock-up which shows the second part of the planned webpage." width="800">
     <br>
     <p><em>Mock-up 3. Mock-up which shows the second part of the planned webpage..</em></p>
 </div>
 
 <div align="center">
-    <img src="/mockups/general_mockup_part3.png" alt="Mock-up which shows the third part of the planned webpage." width="800">
+    <img src="/mockups/mockup_part3.png" alt="Mock-up which shows the third part of the planned webpage." width="800">
     <br>
     <p><em>Mock-up 4. Mock-up which shows the third part of the planned webpage..</em></p>
 </div>
