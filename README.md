@@ -6,7 +6,7 @@ This project contains a webpage design which was made using HTML, CSS and the Bo
 </div>
 
 ## Link to visualize the webpage
-If you click here, you can access the webpage built: [Yonezu Kenshi Webpage by fai-aher](https://fai-aher.github.io/YonezuKenshi_Bio/yonezuKenshi.html#biografia)
+If you click here, you can access the webpage built: [Yonezu Kenshi Webpage by fai-aher](https://fai-aher.github.io/YonezuKenshi_Bio/yonezuKenshi.html)
 
 ## Project folders
 * mockups: Contains images that represent mock-ups made to set the design ideas of the webpage.
