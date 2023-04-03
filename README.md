@@ -19,7 +19,7 @@ the file yonezuKenshi.html contains all the content related to the webpage. It c
 <div align="center">
     <img src="/mockups/mockup_part1.png" alt="Mock-up which shows the first part of the planned webpage." width="800">
     <br>
-    <p><em>Mock-up 2. Mock-up which shows the first part of the planned webpage..</em></p>
+    <p><em>Mock-up 2. Mock-up which shows the first part of the planned webpage.</em></p>
 </div>
 <br>
 <br>
@@ -33,7 +33,7 @@ the file yonezuKenshi.html contains all the content related to the webpage. It c
 <div align="center">
     <img src="/mockups/mockup_part3.png" alt="Mock-up which shows the third part of the planned webpage." width="800">
     <br>
-    <p><em>Mock-up 4. Mock-up which shows the third part of the planned webpage..</em></p>
+    <p><em>Mock-up 4. Mock-up which shows the third part of the planned webpage.</em></p>
 </div>
 <br>
 <br>
@@ -43,9 +43,19 @@ the file yonezuKenshi.html contains all the content related to the webpage. It c
 These are the webpage visualization versions developed for tablet and phone devices.
 
 <div align="center">
-    <img src="/mockups/general_mockup_part3.png" alt="Mock-up which shows the third part of the planned webpage." width="800">
+    <img src="/versions/phone_ver.jpg" alt="Visualization of the Phone version built." width="800">
     <br>
-    <p><em>Mock-up 4. Mock-up which shows the third part of the planned webpage..</em></p>
+    <p><em>Mock-up 4. Visualization of the Phone version built.</em></p>
 </div>
+<br>
+<br>
+<div align="center">
+    <img src="/versions/tablet_ver.jpg" alt="Visualization of the Tablet version built." width="800">
+    <br>
+    <p><em>Mock-up 4. Visualization of the Tablet version built.</em></p>
+</div>
+
+### Note
+All these visualization samples are shown in the Spanish version of the webpage.
 
 
