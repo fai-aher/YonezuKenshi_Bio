@@ -14,25 +14,29 @@ the file yonezuKenshi.html contains all the content related to the webpage. It c
     <br>
     <p><em>Mock-up 1. General mock-up which shows the complete planned design.</em></p>
 </div>
-
+<br>
+<br>
 <div align="center">
     <img src="/mockups/mockup_part1.png" alt="Mock-up which shows the first part of the planned webpage." width="800">
     <br>
     <p><em>Mock-up 2. Mock-up which shows the first part of the planned webpage..</em></p>
 </div>
-
+<br>
+<br>
 <div align="center">
     <img src="/mockups/mockup_part2.png" alt="Mock-up which shows the second part of the planned webpage." width="800">
     <br>
     <p><em>Mock-up 3. Mock-up which shows the second part of the planned webpage..</em></p>
 </div>
-
+<br>
+<br>
 <div align="center">
     <img src="/mockups/mockup_part3.png" alt="Mock-up which shows the third part of the planned webpage." width="800">
     <br>
     <p><em>Mock-up 4. Mock-up which shows the third part of the planned webpage..</em></p>
 </div>
-
+<br>
+<br>
 ## Tablet and Phone versions
 
 These are the webpage visualization versions developed for tablet and phone devices.
