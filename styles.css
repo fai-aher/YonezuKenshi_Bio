@@ -1,0 +1,133 @@
+body {
+    font-family: 'Noto Sans', sans-serif;
+    background-color: #373737;
+}
+.title {
+    margin-top: 180px;
+    color: white;
+    vertical-align: middle;
+    text-shadow: 3px 3px 5px grey;
+}
+.kanji {
+    color: #CFA3E3;
+}
+.mt-custom {
+    margin-top: 30px;
+    margin-bottom: 25px;
+}
+
+
+nav {
+    background-color: #7EAFA4;
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.4);
+    margin: 30px auto;
+    width: 100%;
+    font-size: 1.4em;
+    font-family: 'Noto Sans', sans-serif;
+    position:absolute;
+    top: 30px;
+    left: 280px;
+    width: 450px;
+    border-radius: 10px;
+}
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+nav li {
+    display: inline-block;
+    border-right: 5px solid white;
+    height: 60px;
+}
+nav li:last-child {
+border-right: none; /* Eliminar el borde derecho del último elemento li */
+}
+nav a {
+    display: block;
+    padding: 16px 50px;
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+.image1-frame {
+    background-color: gainsboro;
+    padding: 10px;
+    display: inline-block;
+    box-shadow: 2px 2px 5px grey;
+}
+.image1-frame img {
+    max-width: 100%;
+    width: 500px;
+    height: auto;
+    margin-right: 300px;
+    float: none;
+    margin: 0 auto;
+}
+.mb-parrafo {
+    margin-bottom: 60px;
+}
+.primer-parrafo {
+    color: aliceblue;
+    font-size: 20px;
+    text-align: center;
+}
+hr {
+    border: none;
+    border-top: 2px solid wheat;
+}
+.image2-frame {
+    background-color: gainsboro;
+    padding: 10px;
+    display: inline-block;
+    box-shadow: 2px 2px 5px grey;
+}
+.image2-frame img {
+    max-width: 100%;
+    width: 300px;
+    height: auto;
+    margin-right: 300px;
+    float: none;
+    margin: 0 auto;
+}
+.segundo-parrafo {
+    color: aliceblue;
+    font-size: 20px;
+    text-align: left;
+}
+.table1, td {
+    color: #C09AEF;
+    font-size: 20px;
+    text-align: center;
+    border: 1px solid white;
+    max-width: 720px;
+    margin: auto;
+}
+.lista-info {
+    color: white;
+    font-size: 20px;
+}
+ul li {
+    margin-bottom: 12px;
+}
+.formulario {
+    width: 60%;
+    margin: auto;
+    color: azure;
+    font-size: 25px;
+    text-align: left;
+}
+.tercer-parrafo {
+    color: aliceblue;
+    font-size: 25px;
+    text-align: justify;
+    margin-top: 80px;
+    margin-left: 100px;
+}
+footer{
+    color: aliceblue;
+}
+.footer-details {
+    text-align: center;
+    margin-left: 30px;
+}
