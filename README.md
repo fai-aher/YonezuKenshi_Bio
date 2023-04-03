@@ -1,7 +1,7 @@
-# YonezuKenshi_Bio
+# Yonezu Kenshi Biography webpage
 This project contains a webpage design which was made using HTML, CSS and the Bootstrap framework. The objective is to practice these technologies and make a simple biography webpage to display information about the japanese singer Yonezu Kenshi.
 
-<img src="/media/yonezu_1" alt="Yonezu Kenshi" width="350">
+<img src="/media/yonezu1.png" alt="Yonezu Kenshi" width="350">
 
 ## Project folders
 * mockups: Contains images that represent mock-ups made to set the design ideas of the webpage.
