@@ -10,7 +10,7 @@ the file yonezuKenshi.html contains all the content related to the webpage. It c
 
 ## Mock ups
 <figure>
-  <img src=["imagen"](https://github.com/fai-aher/YonezuKenshi_Bio/blob/main/mockups/general_mockup_laptop.png) alt="Descripción de la imagen">
+  <img src="blob/main/mockups/general_mockup_laptop.png" alt="Descripción de la imagen">
   <figcaption>Figura 1. Leyenda de la imagen.</figcaption>
 </figure>
 <img src=["ruta/de/la/imagen.jpg"](https://github.com/fai-aher/YonezuKenshi_Bio/blob/main/mockups/general_mockup_laptop.png) alt="Descripción de la imagen" width="500">
