@@ -3,7 +3,7 @@ body {
     background-color: #373737;
 }
 .title {
-    margin-top: 180px;
+    margin-top: 230px;
     color: white;
     vertical-align: middle;
     text-shadow: 3px 3px 5px grey;
@@ -18,7 +18,7 @@ body {
 
 
 nav {
-    background-color: #7EAFA4;
+    background-color: #E0ADFF;
     box-shadow: 0 4px 4px rgba(0, 0, 0, 0.4);
     margin: 30px auto;
     width: 100%;
@@ -96,12 +96,13 @@ hr {
     text-align: left;
 }
 .table1, td {
-    color: #C09AEF;
+    color: black;
+    background-color: #FFCEE3;
     font-size: 20px;
     text-align: center;
     border: 1px solid white;
     max-width: 720px;
-    margin: auto;
+    vertical-align: auto;
 }
 .lista-info {
     color: white;
@@ -130,4 +131,7 @@ footer{
 .footer-details {
     text-align: center;
     margin-left: 30px;
+}
+.negrita {
+    font-weight: bold;
 }
