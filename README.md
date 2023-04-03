@@ -43,14 +43,14 @@ the file yonezuKenshi.html contains all the content related to the webpage. It c
 These are the webpage visualization versions developed for tablet and phone devices.
 
 <div align="center">
-    <img src="/versions/phone_ver.jpg" alt="Visualization of the Phone version built." width="650">
+    <img src="/versions/phone_ver.jpg" alt="Visualization of the Phone version built." width="450">
     <br>
     <p><em>Mock-up 4. Visualization of the Phone version built.</em></p>
 </div>
 <br>
 <br>
 <div align="center">
-    <img src="/versions/tablet_ver.jpg" alt="Visualization of the Tablet version built." width="650">
+    <img src="/versions/tablet_ver.jpg" alt="Visualization of the Tablet version built." width="450">
     <br>
     <p><em>Mock-up 4. Visualization of the Tablet version built.</em></p>
 </div>
