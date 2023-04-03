@@ -1,4 +1,4 @@
-
+<!-- made by @fai-aher (GitHub)-->
 <!DOCTYPE html>
 <html>
     <head>
@@ -15,141 +15,7 @@
           integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65"
           crossorigin="anonymous"
         />
-        <style>
-            body {
-                font-family: 'Noto Sans', sans-serif;
-                background-color: #373737;
-            }
-            .title {
-                margin-top: 180px;
-                color: white;
-                vertical-align: middle;
-            }
-            .kanji {
-                color: #CFA3E3;
-            }
-            .mt-custom {
-                margin-top: 30px;
-                margin-bottom: 25px;
-            }
-            
-
-            nav {
-                background-color: #7EAFA4;
-                margin: 30px auto;
-                width: 100%;
-                font-size: 1.4em;
-                font-family: 'Noto Sans', sans-serif;
-                position:absolute;
-                top: 30px;
-                left: 280px;
-                width: 450px;
-                border-radius: 10px;
-            }
-            nav ul {
-                list-style: none;
-                margin: 0;
-                padding: 0;
-            }
-            nav li {
-                display: inline-block;
-                border-right: 5px solid white;
-                height: 60px;
-            }
-            nav li:last-child {
-            border-right: none; /* Eliminar el borde derecho del último elemento li */
-            }
-            nav a {
-                display: block;
-                padding: 16px 50px;
-                color: black;
-                text-decoration: none;
-                font-weight: bold;
-            }
-            .image1-frame {
-                background-color: gainsboro;
-                padding: 10px;
-                display: inline-block;
-                box-shadow: 2px 2px 5px grey;
-            }
-            .image1-frame img {
-                max-width: 100%;
-                width: 500px;
-                height: auto;
-                margin-right: 300px;
-                float: none;
-                margin: 0 auto;
-            }
-            .mb-parrafo {
-                margin-bottom: 60px;
-            }
-            .primer-parrafo {
-                color: aliceblue;
-                font-size: 20px;
-                text-align: center;
-            }
-            hr {
-                border: none;
-                border-top: 2px solid wheat;
-            }
-            .image2-frame {
-                background-color: gainsboro;
-                padding: 10px;
-                display: inline-block;
-                box-shadow: 2px 2px 5px grey;
-            }
-            .image2-frame img {
-                max-width: 100%;
-                width: 300px;
-                height: auto;
-                margin-right: 300px;
-                float: none;
-                margin: 0 auto;
-            }
-            .segundo-parrafo {
-                color: aliceblue;
-                font-size: 20px;
-                text-align: left;
-            }
-            .table1, td {
-                color: #C09AEF;
-                font-size: 20px;
-                text-align: center;
-                border: 1px solid white;
-                max-width: 720px;
-                margin: auto;
-            }
-            .lista-info {
-                color: white;
-                font-size: 20px;
-            }
-            ul li {
-                margin-bottom: 12px;
-            }
-            .formulario {
-                width: 50%;
-                margin: auto;
-                color: azure;
-                font-size: 25px;
-                text-align: left;
-            }
-            .tercer-parrafo {
-                color: aliceblue;
-                font-size: 25px;
-                text-align: justify;
-                margin-top: 80px;
-                margin-left: 100px;
-            }
-            footer{
-                color: aliceblue;
-            }
-            .footer-details {
-                text-align: center;
-                margin-left: 30px;
-            }
-
-
-        </style>
+        <link rel="stylesheet" type="text/css" href="styles.css">
     </head>
 
     <!-- body -->
@@ -213,7 +79,7 @@
                 </div>
 
                 <div class="col-8 col-md-8">
-                    <div class="row">
+                    <div class="row custom-parr-2">
                         <p class="segundo-parrafo mb-4">
                             A continuación, se encuentra una tabla con información básica de Yonezu:
                         </p>
@@ -222,27 +88,27 @@
                         <table class="table1">
                             <tbody>
                               <tr>
-                                <td>También conocido como</td>
+                                <td class="negrita">También conocido como</td>
                                 <td>HACHI(ハチ)</td>
                               </tr>
                               <tr>
-                                <td>Nacimiento</td>
+                                <td class="negrita">Nacimiento</td>
                                 <td>Marzo 10 de 1991 en Tokushima, Japón</td>
                               </tr>
                               <tr>
-                                <td>Géneros musicales</td>
+                                <td class="negrita">Géneros musicales</td>
                                 <td>J-pop, rock</td>
                               </tr>
                               <tr>
-                                <td>Años activo</td>
+                                <td class="negrita">Años activo</td>
                                 <td>2009 - Hasta la actualidad</td>
                               </tr>
                             </tbody>
                           </table>
                           
                     </div>
-                    <div class="row mt-5">
-                        <p class="segundo-parrafo mb-4 mt-5">Estos son algunos de los datos más interesantes sobre <span class="kanji">Kenshi</span>:</p>
+                    <div class="row custom-parr-2 mt-5">
+                        <p class="segundo-parrafo mb-4 mt-5">Y estos son algunos de los datos más interesantes sobre <span class="kanji">Kenshi</span>:</p>
                         <ul class="lista-info">
                             <li> Cuando era niño, tenía una dificultad notoria para comunicarse con los demás, incluido también,
                                  su padre. Con quien se sentía comprendido era con su madre.</li>
@@ -295,7 +161,8 @@
                             
                                 <label for="email">Email:</label>
                                 <input type="email" id="email" name="email"><br>
-                            
+                                <br>
+                                
                                 <input type="submit" value="Enviar">
                             </form>
                             
@@ -332,22 +199,12 @@
    
         </div> <!-- fin clase container-->
 
-
-
-
         <script
         src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4"
         crossorigin="anonymous"
         ></script>
     </body>
-
-
-
-
-
-
-
 
 </html>
 
