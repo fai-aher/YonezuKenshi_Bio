@@ -10,8 +10,7 @@ the file yonezuKenshi.html contains all the content related to the webpage. It c
 
 ## Mockups
 ![General mock-up](https://github.com/fai-aher/YonezuKenshi_Bio/blob/main/mockups/general_mockup_laptop.png "General mock-up which shows the planned design.")
-
 <div align="center">
-  <p><em>Figura 1. Descripción de la imagen.</em></p>
+  <p><em>Mock-up 1. General mock-up which shows the planned design.</em></p>
 </div>
 
