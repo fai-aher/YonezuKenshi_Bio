@@ -56,6 +56,6 @@ These are the webpage visualization versions developed for tablet and phone devi
 </div>
 
 ### Note
-All these visualization samples are shown in the Spanish version of the webpage.
+* All these visualization samples are shown in the Spanish version of the webpage.
 
 
