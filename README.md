@@ -37,6 +37,7 @@ the file yonezuKenshi.html contains all the content related to the webpage. It c
 </div>
 <br>
 <br>
+
 ## Tablet and Phone versions
 
 These are the webpage visualization versions developed for tablet and phone devices.
