@@ -9,7 +9,7 @@ This project contains a webpage design which was made using HTML, CSS and the Bo
 the file yonezuKenshi.html contains all the content related to the webpage. It can be tested using the 'live server' extension in Visual Studio Code.
 
 ## Mockups
-<img src="[ruta_de_la_imagen](https://github.com/fai-aher/YonezuKenshi_Bio/blob/main/mockups/general_mockup_laptop.png)" alt="descripción de la imagen" style="max-width: 100%;">
+<img src="https://github.com/fai-aher/YonezuKenshi_Bio/blob/main/mockups/general_mockup_laptop.png" alt="descripción de la imagen" style="max-width: 100%;">
 
 ![General mock-up](https://github.com/fai-aher/YonezuKenshi_Bio/blob/main/mockups/general_mockup_laptop.png "General mock-up which shows the planned design.")
 <div align="center">
