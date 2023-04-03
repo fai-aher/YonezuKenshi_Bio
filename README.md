@@ -10,9 +10,7 @@ the file yonezuKenshi.html contains all the content related to the webpage. It c
 
 ## Mock ups
 <div style="text-align:center;">
-  <figure>
     <img src="/mockups/general_mockup_laptop.png" alt="General mock-up which shows the complete planned design." width="800">
     <br>
-    <figcaption>Mock-up 1. General mock-up which shows the complete planned design.</figcaption>
-  </figure>
+    <p>Mock-up 1. General mock-up which shows the complete planned design.</p>
 </div>
