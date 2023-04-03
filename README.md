@@ -50,7 +50,7 @@ These are the webpage visualization versions developed for tablet and phone devi
 <br>
 <br>
 <div align="center">
-    <img src="/versions/tablet_ver.jpg" alt="Visualization of the Tablet version built." width="450">
+    <img src="/versions/tablet_ver.jpg" alt="Visualization of the Tablet version built." width="550">
     <br>
     <p><em>Mock-up 4. Visualization of the Tablet version built.</em></p>
 </div>
