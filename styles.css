@@ -135,3 +135,206 @@ footer{
 .negrita {
     font-weight: bold;
 }
+
+/* Estilos para una visualizacion en dispositivo tableta */
+
+@media screen and (min-width: 720px) and (max-width: 1280px) {
+    body {
+        font-family: 'Noto Sans', sans-serif;
+        background-color: #373737;
+    }
+    nav {
+        background-color: #E0ADFF;
+        box-shadow: 0 4px 4px rgba(0, 0, 0, 0.4);
+        margin: 20px auto;
+        width: 100%;
+        font-size: 1.4em;
+        font-family: 'Noto Sans', sans-serif;
+        position:absolute;
+        top: 30px;
+        left: 70px;
+        width: 450px;
+        border-radius: 10px;
+    }
+    .tercer-parrafo {
+        color: aliceblue;
+        font-size: 18px;
+        text-align: justify;
+        margin-top: 40px;
+        margin-left: 30px;
+    }
+    .formulario {
+        width: 80%;
+        margin: auto;
+        color: azure;
+        font-size: 18px;
+        text-align: left;
+    }
+    .table1, td {
+        color: black;
+        background-color: #FFCEE3;
+        font-size: 20px;
+        text-align: center;
+        border: 1px solid white;
+        max-width: 430px;
+        margin-left: 20px;
+        vertical-align: auto;
+    }
+
+  }
+
+  @media (max-width: 480px) {
+    /* Estilos para celular basado en resolucion de iPhone 11 */
+
+    body {
+        font-family: 'Noto Sans', sans-serif;
+        background-color: #373737;
+        margin-right: 20px;
+        margin-left: 20px;
+    }
+    nav {
+        background-color: #E0ADFF;
+        box-shadow: 0 4px 4px rgba(0, 0, 0, 0.4);
+        margin: 10px 10px;
+        width: 40%;
+        font-size: 1.1em;
+        font-family: 'Noto Sans', sans-serif;
+        position:absolute;
+        top: 10px;
+        left: 10px;
+        width: 150px;
+        border-radius: 10px;
+    }
+    nav a {
+        font-size: 10px;
+        display: block;
+        padding: 8px 10px;
+        color: black;
+        text-decoration: none;
+        font-weight: bold;
+    }
+    nav li {
+        display: inline-block;
+        border-right: 3px solid white;
+        height: 25px;
+    }
+    .title {
+        margin-top: 90px;
+        color: white;
+        vertical-align: middle;
+        text-shadow: 3px 3px 5px grey;
+    }
+    .image1-frame {
+        background-color: gainsboro;
+        padding: 5px;
+        display: inline-block;
+        box-shadow: 2px 2px 5px grey;
+    }
+    .image1-frame img {
+        max-width: 100%;
+        width: 200px;
+        height: auto;
+        margin-right: 300px;
+        float: none;
+        margin: 0 auto;
+    }
+    .display-2 {
+        font-size: 30px; /* Cambia el tamaño del título a 28px en dispositivos con una anchura máxima de 768px */
+    }
+    .primer-parrafo {
+        margin-left: 30px;
+        margin-right: 30px;
+        color: aliceblue;
+        font-size: 10px;
+        text-align: center;
+    }
+    .mb-parrafo {
+        margin-bottom: 20px;
+    }
+    .image2-frame {
+        background-color: gainsboro;
+        padding: 3px;
+        margin-left: 20px;
+        margin-right: 0px;
+        box-shadow: 2px 2px 5px grey;
+    }
+    .image2-frame img {
+        max-width: 100%;
+        width: 180px;
+        margin-right: 0px;
+        margin-left: 0px;
+    }
+    .custom-parr-2{
+        color: aliceblue;
+        font-size: 8px;
+        margin-left: 0px;
+        margin-top: 0px;
+        margin-bottom: 10px;
+        text-align: left;
+    }
+    .segundo-parrafo {
+        color: aliceblue;
+        font-size: 8px;
+        margin-left: 0px;
+        margin-top: 0px;
+        margin-bottom: 10px;
+        text-align: left;
+    }
+    .mt-5 {
+        margin-top: 10px !important;
+      }
+    .mb-4 {
+        margin-bottom: 5px !important;
+    }
+    .table1, td {
+        color: black;
+        background-color: #FFCEE3;
+        font-size: 8px;
+        text-align: center;
+        border: 1px solid white;
+        max-width: 210px;
+        margin-left: 22px;
+        vertical-align: auto;
+    }
+    .lista-info {
+        color: white;
+        font-size: 8px;
+        margin-right: 30px;
+    }
+    ul li {
+        margin-bottom: 8px;
+    }
+    .formulario {
+        width: 30%;
+        color: azure;
+        font-size: 10px;
+        text-align: left;
+    }
+    .tercer-parrafo {
+        color: aliceblue;
+        font-size: 10px;
+        text-align: justify;
+        margin-top: 10px;
+        margin-left: 20px;
+    }
+    footer{
+        color: aliceblue;
+        font-size: 8px;
+        text-align: center;
+    }
+    .footer-details {
+        text-align: center;
+        margin-left: 5px;
+    }
+    .negrita {
+        font-weight: bold;
+    }
+    .mb-parrafo {
+        margin-bottom: 20px;
+    }
+    
+  
+
+
+
+  }
