@@ -12,5 +12,5 @@ the file yonezuKenshi.html contains all the content related to the webpage. It c
 <div align="center">
     <img src="/mockups/general_mockup_laptop.png" alt="General mock-up which shows the complete planned design." width="800">
     <br>
-    <p>Mock-up 1. General mock-up which shows the complete planned design.</p>
+    <p><em>Mock-up 1. General mock-up which shows the complete planned design.</em></p>
 </div>
